@@ -1,7 +1,8 @@
 # Cloud-based-Face-Recognition-System-Using-AWS
 Cloud-based Face Recognition System Using AWS This project implements a cloud-based face recognition system using AWS services. Key components include:  Amazon Rekognition for face detection and recognition. Amazon S3 for secure image storage. AWS Lambda for serverless computations. Amazon DynamoDB for metadata management.
 
- DEMO video- https://github.com/user-attachments/assets/48eca402-f6db-4bf4-a2bb-21c19904c7c5
+ DEMO video- 
+ https://github.com/user-attachments/assets/48eca402-f6db-4bf4-a2bb-21c19904c7c5
 ---
 
 ## Features  
